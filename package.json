@@ -1,0 +1,20 @@
+{
+  "name": "FSJS-TD-06",
+  "version": "1.0.0",
+  "description": "Static Node.js and Express Site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ManoelBlue/FSJS-TD-06.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ManoelBlue/FSJS-TD-06/issues"
+  },
+  "homepage": "https://github.com/ManoelBlue/FSJS-TD-06#readme"
+}
