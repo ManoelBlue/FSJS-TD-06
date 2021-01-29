@@ -1,0 +1,64 @@
+{
+    "projects": [
+        {
+            "id": 0,
+            "project_name": "A Random Quote Generator",
+            "description": "Displays a random quotes",
+            "technologies": ["HTML", "CSS", "JavaScript"],
+            "live_link": "https://manoelblue.github.io/FSJS-TD-01/",
+            "github_link": "https://github.com/ManoelBlue/FSJS-TD-01",
+            "image_urls": [
+                "../images/01-square",
+                "../images/01-landscape"
+            ]
+        },
+        {
+            "id": 1,
+            "project_name": "A Random Quote Generator",
+            "description": "Displays a random quotes",
+            "technologies": ["HTML", "CSS", "JavaScript"],
+            "live_link": "https://manoelblue.github.io/FSJS-TD-01/",
+            "github_link": "https://github.com/ManoelBlue/FSJS-TD-01",
+            "image_urls": [
+                "../images/01-square",
+                "../images/01-landscape"
+            ]
+        },
+        {
+            "id": 2,
+            "project_name": "A Random Quote Generator",
+            "description": "Displays a random quotes",
+            "technologies": ["HTML", "CSS", "JavaScript"],
+            "live_link": "https://manoelblue.github.io/FSJS-TD-01/",
+            "github_link": "https://github.com/ManoelBlue/FSJS-TD-01",
+            "image_urls": [
+                "../images/01-square",
+                "../images/01-landscape"
+            ]
+        },
+        {
+            "id": 3,
+            "project_name": "A Random Quote Generator",
+            "description": "Displays a random quotes",
+            "technologies": ["HTML", "CSS", "JavaScript"],
+            "live_link": "https://manoelblue.github.io/FSJS-TD-01/",
+            "github_link": "https://github.com/ManoelBlue/FSJS-TD-01",
+            "image_urls": [
+                "../images/01-square",
+                "../images/01-landscape"
+            ]
+        },
+        {
+            "id": 4,
+            "project_name": "A Random Quote Generator",
+            "description": "Displays a random quotes",
+            "technologies": ["HTML", "CSS", "JavaScript"],
+            "live_link": "https://manoelblue.github.io/FSJS-TD-01/",
+            "github_link": "https://github.com/ManoelBlue/FSJS-TD-01",
+            "image_urls": [
+                "../images/01-square",
+                "../images/01-landscape"
+            ]
+        }
+    ]
+}
