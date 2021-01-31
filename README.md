@@ -8,6 +8,7 @@
 - add box-shadow when hovering the thumbnails;
 - add scale transformation when hovering project img;
 - add transition to the hover effects;
+- add blink animation to error status;
 
 ### Additional info:
 This project is the sixth part of a Treehouse Full Stack JavaScript Techdegree. Therefore, my personal work is in the app.js and the pug folder, plus the extra.css file (within the css folder). The other styles (besides color and background-color) and the markup were provided.
