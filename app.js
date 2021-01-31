@@ -20,7 +20,7 @@ app.get('/about', (req, res) => {
 })
 
 app.get('/projects/:id', (req, res) => {
-    res.render('project');
+    res.render('project', {project: data.projects[req.params.id]});
 });
 
 // Intentional 500 error:
