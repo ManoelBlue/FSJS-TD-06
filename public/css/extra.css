@@ -2,4 +2,10 @@
 
 .thumbnail:hover {
     box-shadow: 0 0 30px 5px lightblue;
+    transition: 0.5s;
+}
+
+.project-img:hover {
+    transform: scale(1.1);
+    transition: 0.5s;
 }
