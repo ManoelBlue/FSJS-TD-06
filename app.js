@@ -23,16 +23,6 @@ app.get('/projects/:id', (req, res) => {
     res.render('project', {project: data.projects[req.params.id]});
 });
 
-// Intentional 500 error:
-app.use('/500', (req, res, next) => {
-    const err500 = new Error('Error 500');
-    err500.status = 500;
-
-    res.locals.error = err500;
-    res.status(err500.status);
-    res.render('error', err500);
-});
-
 // 404 hanlder:
 app.use((req, res, next) => {
     const err = new Error('The page was NOT FOUND.');
@@ -40,12 +30,13 @@ app.use((req, res, next) => {
     next(err);
 })
 
-
 // Handle errors:
 app.use((err, req, res, next) => {
     res.locals.error = err;
     res.status(err.status);
-    if (err.message && err.status) {
+    if (err.status === 404) {
+        res.render('page-not-found', err);
+    } else {
         res.render('error', err);
     }
 });
