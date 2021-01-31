@@ -3,61 +3,61 @@
         {
             "id": 0,
             "project_name": "A Random Quote Generator",
-            "description": "Displays a random quotes",
+            "description": "Project that displays a random quotes",
             "technologies": ["HTML", "CSS", "JavaScript"],
             "live_link": "https://manoelblue.github.io/FSJS-TD-01/",
             "github_link": "https://github.com/ManoelBlue/FSJS-TD-01",
             "image_urls": [
-                "../images/01-square",
-                "../images/01-landscape"
+                "../images/01-square.png",
+                "../images/01-landscape.png"
             ]
         },
         {
             "id": 1,
-            "project_name": "A Random Quote Generator",
-            "description": "Displays a random quotes",
+            "project_name": "Data Pagination and Filtering",
+            "description": "Project that uses JavaScript to add the pagination functionality to a page.",
             "technologies": ["HTML", "CSS", "JavaScript"],
-            "live_link": "https://manoelblue.github.io/FSJS-TD-01/",
-            "github_link": "https://github.com/ManoelBlue/FSJS-TD-01",
+            "live_link": "https://manoelblue.github.io/FSJS-TD-02/",
+            "github_link": "https://github.com/ManoelBlue/FSJS-TD-02",
             "image_urls": [
-                "../images/01-square",
-                "../images/01-landscape"
+                "../images/02-square.png",
+                "../images/02-landscape.png"
             ]
         },
         {
             "id": 2,
-            "project_name": "A Random Quote Generator",
-            "description": "Displays a random quotes",
+            "project_name": "Interactive Form",
+            "description": "Uses JavaScript to add form interactivity",
             "technologies": ["HTML", "CSS", "JavaScript"],
-            "live_link": "https://manoelblue.github.io/FSJS-TD-01/",
-            "github_link": "https://github.com/ManoelBlue/FSJS-TD-01",
+            "live_link": "https://manoelblue.github.io/FSJS-TD-03/",
+            "github_link": "https://github.com/ManoelBlue/FSJS-TD-03",
             "image_urls": [
-                "../images/01-square",
-                "../images/01-landscape"
+                "../images/03-square.png",
+                "../images/03-landscape.png"
             ]
         },
         {
             "id": 3,
-            "project_name": "A Random Quote Generator",
-            "description": "Displays a random quotes",
+            "project_name": "OOP Game Show App",
+            "description": "Uses JavaScript to create a simple game for guessing a secret phrase",
             "technologies": ["HTML", "CSS", "JavaScript"],
-            "live_link": "https://manoelblue.github.io/FSJS-TD-01/",
-            "github_link": "https://github.com/ManoelBlue/FSJS-TD-01",
+            "live_link": "https://manoelblue.github.io/FSJS-TD-04/",
+            "github_link": "https://github.com/ManoelBlue/FSJS-TD-04",
             "image_urls": [
-                "../images/01-square",
-                "../images/01-landscape"
+                "../images/04-square.png",
+                "../images/04-landscape.png"
             ]
         },
         {
             "id": 4,
-            "project_name": "A Random Quote Generator",
-            "description": "Displays a random quotes",
+            "project_name": "Public API Requests",
+            "description": "Uses JavaScript to fetch data from an API and display to the user",
             "technologies": ["HTML", "CSS", "JavaScript"],
-            "live_link": "https://manoelblue.github.io/FSJS-TD-01/",
-            "github_link": "https://github.com/ManoelBlue/FSJS-TD-01",
+            "live_link": "https://manoelblue.github.io/FSJS-TD-05/",
+            "github_link": "https://github.com/ManoelBlue/FSJS-TD-05",
             "image_urls": [
-                "../images/01-square",
-                "../images/01-landscape"
+                "../images/05-square.png",
+                "../images/05-landscape.png"
             ]
         }
     ]
