@@ -20,9 +20,9 @@ body {
   font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
   font-weight: normal;
   line-height: 1.5;
-  color: #0a0a0a;
+  color: darkblue;
   background: #fefefe;
-  background: #000;
+  background: darkblue;
   transform: translateX(0px);
   transition: all 0.4s ease-out;
 }
@@ -137,7 +137,7 @@ nav a span {
   height: 100%;
   min-height: 100%;
   padding: 20px;
-  background: #000;
+  background: darkblue;
 }
 
 .sidebar-info-box {
@@ -184,8 +184,8 @@ nav a span {
   color: #fefefe;
   height: 40px;
   padding: 0.5rem;
-  background: #0a0a0a;
-  border-left: 1px solid #0a0a0a;
+  background: darkblue;
+  border-left: 1px solid darkblue;
 }
 
 .header span {
@@ -201,7 +201,7 @@ nav a span {
   width: 20px;
   height: 16px;
   border: none;
-  background: #0a0a0a;
+  background: darkblue;
   margin-top: 3px;
   margin-right: 10px;
   border-top: 2px solid #fefefe;
@@ -229,7 +229,7 @@ nav a span {
 
 .portfolio-intro h1 {
   font-size: 1.5rem;
-  color: #0a0a0a;
+  color: darkblue;
   margin: 0 auto 8px;
 }
 
