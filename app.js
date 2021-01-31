@@ -7,6 +7,7 @@ const app = express();
 
 app.set('view engine', 'pug');
 app.use('/static', express.static(path.join(__dirname, 'public')));
+app.use('/images', express.static(path.join(__dirname, 'images')));
 
 
 // Set routes:
