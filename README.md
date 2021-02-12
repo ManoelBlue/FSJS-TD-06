@@ -1,4 +1,4 @@
-# Full Stack JavaScript Techdegree Project 05
+# Full Stack JavaScript Techdegree Project 06
 ## Static Node.js and Express site
     Creates a portfolio website using node and pug.
 
